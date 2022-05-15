@@ -1,0 +1,21 @@
+body
+{
+  text-align:center;
+  background:(#00ffff 0% #00ffbf 100%)
+    background-repeat:no-repeat;
+  text-align:center;
+}
+
+
+ img{
+  border-radius:50%;
+ width:50%;
+}
+h1{
+  
+    font-size :  20px ;
+}
+p{
+  font-size:18px;
+    colour:#2900f5;
+}
